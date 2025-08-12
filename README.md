@@ -34,7 +34,7 @@ This setup is a great starting point for learning about sensors, Arduino program
 - **IR Sensor:**
   - VCC → Arduino 5V
   - GND → Arduino GND
-  - OUT → Arduino Digital Pin 2
+  - OUT → Arduino Digital Pin 8
 - **LED:**
   - Anode (+ longer leg) → Arduino Digital Pin 13
   - Cathode (– shorter leg) → Arduino GND (via resistor if needed)
