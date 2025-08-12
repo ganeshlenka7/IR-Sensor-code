@@ -27,7 +27,8 @@ This setup is a great starting point for learning about sensors, Arduino program
 
 ## 🔌 Circuit Wiring
 
-![IR Sensor with Arduino Uno R3 & LED Wiring Diagram](wiring-diagram.png)
+![IR Sensor](IR%20Sensor.jpg)
+
 
 **Wiring Overview:**
 - **IR Sensor:**
@@ -48,4 +49,4 @@ This setup is a great starting point for learning about sensors, Arduino program
 
 ---
 
-📺 **Video Demonstration:** [Watch on Ecempire YouTube](YOUR_VIDEO_LINK_HERE)
+📺 **Video Demonstration:** [Watch on Ecempire YouTube][(YOUR_VIDEO_LINK_HERE)](https://youtube.com/shorts/6z6q5uFFS4A?si=P9dpw4uhRzD-iw8n)
