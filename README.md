@@ -27,7 +27,7 @@ This setup is a great starting point for learning about sensors, Arduino program
 
 ## 🔌 Circuit Wiring
 
-![IR Sensor](IR%20Sensor.jpg)
+![IR Sensor](IRSensor.jpg)
 
 
 **Wiring Overview:**
