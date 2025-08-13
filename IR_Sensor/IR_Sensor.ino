@@ -1,5 +1,5 @@
 int led=13; 
-int ir=2;
+int ir=8;
 void setup()
  {
  pinMode(led,OUTPUT);
